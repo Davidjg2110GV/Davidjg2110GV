@@ -1,28 +1,29 @@
-# ¡Hola! Soy David 🦯 ⚖️
+# David González | Software Developer & Automation Specialist ⚖️
 
-> *"La medida de un hombre no es cómo es derribado, es cómo se levanta."*
+> *"La disciplina constante es el verdadero talento que transforma el caos en soluciones."*
 
-Bienvenido a mi perfil. Soy **Técnico Superior Universitario en Informática** y actualmente **estudiante de Ingeniería de Sistemas**. 
+¡Hola! Bienvenido a mi perfil. Soy **Técnico Superior Universitario en Informática** y estudiante de **Ingeniería de Sistemas**. 
 
-Creo firmemente en la constancia: **La disciplina puede vencer cualquier talento si te propones ser mejor cada día.**
+Abordo el desarrollo de software con una filosofía clara: **atención extrema al detalle, resiliencia ante problemas complejos y un enfoque inquebrantable en los resultados.** Mi objetivo no es solo escribir código, sino construir sistemas robustos y eficientes que aporten valor real, seguridad y tranquilidad a mis clientes y equipos de trabajo.
 
-### 🦇 Mi Sentido de Radar (Stack Tecnológico)
-No veo el código simplemente como líneas de texto; lo entiendo como un sistema interconectado. Con un par de años de experiencia en el frente de batalla, estas son las armas en mi arsenal:
+### 🎯 ¿Cómo puedo aportar valor a tu proyecto?
+* **Automatización Estratégica:** Como un "sentido de radar" para la eficiencia, detecto procesos manuales lentos y diseño flujos de trabajo (con n8n, Python y Bots) para que los negocios operen en piloto automático.
+* **Desarrollo Orientado a Soluciones:** Creación de herramientas a medida, desde el diseño de la lógica empresarial hasta la implementación.
+* **Mantenimiento y Optimización:** No le temo al código complejo. Analizo, depuro y optimizo sistemas existentes para garantizar su rendimiento y escalabilidad.
 
-* **Lógica y Backend:** Python, PHP, JavaScript
-* **Estructura y Frontend:** HTML, CSS
-* **Manejo de Datos:** PostgreSQL
-* **Automatización y Herramientas:** n8n, Odoo, Google Apps Script, Bots de Telegram
+### 🛠️ Arsenal Tecnológico
+Con experiencia práctica desarrollando soluciones en entornos reales, estas son las herramientas con las que construyo:
 
-### 🎯 Misiones Actuales (Lo que hago)
-* **Subiendo de nivel:** Cursando Ingeniería de Sistemas para expandir mi visión arquitectónica del software.
-* **Automatizando el caos:** Creando bots y flujos de trabajo (con Python y n8n) para simplificar procesos y resolver problemas reales.
-* **Equilibrio:** Entrenando el cuerpo (calistenia) y la mente (código), porque la resistencia física y mental son claves para cualquier desafío.
+* **Backend & Lógica:** Python, PHP, JavaScript
+* **Gestión de Datos:** PostgreSQL
+* **Automatización & Negocios:** n8n, Odoo, Google Apps Script, integraciones de APIs (Telegram, etc.)
+* **Estructura Web:** HTML, CSS
 
-### ⚡ Filosofía de Desarrollo
-> *"El miedo es solo una ilusión."*
+### 📈 Filosofía de Trabajo
+> *"Un sistema fuerte se construye enfrentando los fallos, no cerrando los ojos ante ellos."*
 
-No le temo al código *legacy*, a las bases de datos enredadas, ni a aprender una nueva tecnología desde cero. Si el servidor cae, lo levantamos. Si hay un *bug* oculto, lo cazamos usando el radar. No busco ser un héroe, solo busco que mi código funcione mejor y sea más seguro de lo que era ayer.
+Creo firmemente en la mejora continua. Al igual que el entrenamiento físico y mental exige constancia diaria, el desarrollo de software requiere un compromiso absoluto con la excelencia y la adaptabilidad. Si un proyecto requiere una tecnología nueva o presenta un desafío que parece insuperable, mi disciplina me permite investigar, aprender y ejecutar hasta resolverlo.
 
 ---
-💻 [github.com/Davidjg2110GV](https://github.com/Davidjg2110GV)
+**¿Tienes un desafío técnico o un proceso que necesita ser automatizado?**
+📍 Base de operaciones: Guarenas, VE | 💻 [github.com/Davidjg2110GV](https://github.com/Davidjg2110GV)
