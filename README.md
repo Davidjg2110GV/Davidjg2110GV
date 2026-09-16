@@ -7,7 +7,9 @@ Actualmente poseo experiencia práctica llevando proyectos desde el diseño de l
 
 Mi trabajo se centra en el ecosistema **Odoo (v17)** y **Python**, complementado con desarrollo **Frontend** y un interés profundo en entornos **Linux** y la **Ciberseguridad**. Recientemente, he estado integrando **Inteligencia Artificial y Agentes** en mis flujos de trabajo para potenciar la automatización y la toma de decisiones.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Davidjg2110GV/Davidjg2110GV/main/assets/animated-divider.svg" width="100%" />
+</div>
 
 ## 🚀 ¿Qué hago y cómo aporto valor?
 
@@ -17,7 +19,9 @@ Mi trabajo se centra en el ecosistema **Odoo (v17)** y **Python**, complementado
 * **Desarrollo Frontend:** Construcción de interfaces limpias e intuitivas utilizando tecnologías web modernas (JavaScript, TypeScript).
 * **Enfoque en Seguridad:** Aplicación de buenas prácticas en servidores Linux y bases de datos, garantizando que el código no solo funcione, sino que sea seguro y escalable.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Davidjg2110GV/Davidjg2110GV/main/assets/animated-divider.svg" width="100%" />
+</div>
 
 ## 💻 Mi Stack Tecnológico
 
@@ -49,18 +53,8 @@ Mi trabajo se centra en el ecosistema **Odoo (v17)** y **Python**, complementado
 
 </div>
 
----
-
-## 📊 Actividad en GitHub
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Davidjg2110GV&theme=react&hide_border=true&border_radius=8" width="410" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/4169E1/Davidjg2110GV" width="100%" alt="Gráfico de Contribuciones" />
+  <img src="https://raw.githubusercontent.com/Davidjg2110GV/Davidjg2110GV/main/assets/animated-divider.svg" width="100%" />
 </div>
 
 <br/>
@@ -69,7 +63,11 @@ Mi trabajo se centra en el ecosistema **Odoo (v17)** y **Python**, complementado
   <img src="https://raw.githubusercontent.com/Davidjg2110GV/Davidjg2110GV/main/assets/cat.gif" width="150" alt="Cat animation" />
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Davidjg2110GV/Davidjg2110GV/main/assets/animated-divider.svg" width="100%" />
+</div>
 
 ## 🧠 Filosofía de Trabajo
 
@@ -77,7 +75,9 @@ Mi trabajo se centra en el ecosistema **Odoo (v17)** y **Python**, complementado
 
 Creo firmemente en la adaptabilidad. Si un proyecto requiere integrar una tecnología que no conozco o presenta un error difícil de rastrear, mi disciplina me permite leer la documentación, probar, equivocarme y ejecutar hasta resolverlo. Construyo sistemas enfrentando los fallos, no cerrando los ojos ante ellos.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Davidjg2110GV/Davidjg2110GV/main/assets/animated-divider.svg" width="100%" />
+</div>
 
 ## 📬 Conecta conmigo
 
