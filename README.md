@@ -91,7 +91,7 @@ Mi trabajo se centra en el ecosistema **Odoo (v17)** y **Python**, complementado
 
 <div align="center">
   <!-- Cat Animation -->
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat typing animation" />
+  <img src="https://raw.githubusercontent.com/Davidjg2110GV/Davidjg2110GV/main/assets/cat.gif" width="180" alt="Cat animation" />
 </div>
 
 <div align="center">
